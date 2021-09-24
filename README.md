@@ -1,0 +1,2 @@
+# goal-saya
+visi kedepan
