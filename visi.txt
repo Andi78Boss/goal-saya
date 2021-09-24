@@ -1,4 +1,8 @@
 Hal-hal yang seharusnya saya lakukan
 
 Belajar javascript
+  vue
+  react
+  node.js
+  apa perbedaan vue dan node.js
 Belajar python
