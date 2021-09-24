@@ -5,4 +5,7 @@ Belajar javascript
   react
   node.js
   apa perbedaan vue dan node.js
+  
 Belajar python
+  belajar dari nol
+  apa itu django
