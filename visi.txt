@@ -1,11 +1,12 @@
 Hal-hal yang seharusnya saya lakukan
 
 Belajar javascript
+  apa itu framework
   vue
   react
   node.js
   apa perbedaan vue dan node.js
-  
+  perbedaan vue dan react
 Belajar python
   belajar dari nol
   apa itu django
