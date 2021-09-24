@@ -1,4 +1,7 @@
 Hal-hal yang seharusnya saya lakukan
 
 Belajar javascript
+  vue
+  react
+  node.js
 Belajar python
