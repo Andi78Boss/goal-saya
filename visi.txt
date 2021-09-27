@@ -12,3 +12,4 @@ Belajar python
   apa itu django
 Jangan malas
 malas itu tidak baik
+malas musuh terbesar saya
