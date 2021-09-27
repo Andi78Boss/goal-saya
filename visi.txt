@@ -10,3 +10,4 @@ Belajar javascript
 Belajar python
   belajar dari nol
   apa itu django
+Jangan malas
